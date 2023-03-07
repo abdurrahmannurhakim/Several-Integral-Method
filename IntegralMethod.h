@@ -2,7 +2,7 @@
 // Name         : IntegralMethod.h
 // Author       : Abdurrahman Nurhakim
 // Version      : 2.1.0
-// GUI			: Eclipse IDE (This library can also be used in Arduino IDE, STM32Cube, etc)
+// GUI		: Eclipse IDE (This library can also be used in Arduino IDE, STM32Cube, etc)
 // Description  : Several Itegral Method in C++
 //============================================================================
 
