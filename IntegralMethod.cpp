@@ -102,7 +102,7 @@ float IntegralMethod::_3rd_Adam_BashForth_Moulton(float X, float DT) {
 	return FX;
 }
 
-///DELETE STRUCT OR INTEGRAL VALUE
+///Reset Accumulation Value (Optional)
 void IntegralMethod::ResetStruct() {
 	_Basic = reset;
 	_Trapezoid = reset;
