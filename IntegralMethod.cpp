@@ -2,7 +2,7 @@
 // Name         : IntegralMethod.cpp
 // Author       : Abdurrahman Nurhakim
 // Version      : 2.1.0
-// GUI			: Eclipse IDE (This library can also be used in Arduino IDE, STM32Cube, etc)
+// GUI		: Eclipse IDE (This library can also be used in Arduino IDE, STM32Cube, etc)
 // Description  : Several Integral Method in C++
 //============================================================================
 #include "IntegralMethod.h"
@@ -15,8 +15,6 @@ struct FX _Boole;
 struct FX _2rd_ABM;
 struct FX _3rd_ABM;
 struct FX reset { };
-
-
 
 /**
  * Variable:
